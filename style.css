@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background:linear-gradient(#00a6d2,#046b99,#061f4a);
+}
+
+.poster{
+    display:block;
+    margin:auto;
+    border-style:solid;
+    border-color:#99231b;
+    width:100%;
+}
+
+.card{
+    margin: 0 auto;
+float: none;
+margin-bottom: 10px;
+text-align: center;
+margin-bottom:50px;
+margin-top:50px;
+border-color:#99231b;
+border-width: 2px;
+border-style:solid;
+background-color:#dce4ef;
+width:50%
+}
+
+  .skill {
+    padding: 5px;
+    font-size: 1rem;
+    text-align:start;
+  }
+
+  .list-group-item{
+    text-align:start;
+    padding-bottom:10px;
+  }
+
+  .btn{
+    background-color:#ff9d1e;
+    border:none;
+  }
