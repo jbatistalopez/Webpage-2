@@ -40,3 +40,11 @@ width:50%
     background-color:#ff9d1e;
     border:none;
   }
+
+  .card-header,h4 {
+    background-color: #aeb0b5;
+  }
+
+  ul{
+    padding:0%;
+  }
